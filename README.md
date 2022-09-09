@@ -11,4 +11,4 @@ Update: Now there's an install script (thanks to <a href="https://github.com/nun
 
 Example of container diagram:
 
-![ContainerDiagram](/images/C4Model-banking-system-context-diagram.png)
+![ContainerDiagram](/images/C4model-banking-system-context-diagram.png)
